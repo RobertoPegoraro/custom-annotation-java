@@ -8,7 +8,7 @@ public @interface Endpoint {
     
     public static enum Type {
 
-	      EDGE,
+	EDGE,
         SERVER;
         
         private Type() { }
